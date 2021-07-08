@@ -17,7 +17,7 @@ parameterized==0.7.4      # via -r etc/requirements_dev.in
 pip-tools==5.3.1          # via -r etc/requirements_dev.in
 pluggy==0.13.1            # via pytest
 py-cpuinfo==7.0.0         # via pytest-benchmark
-py==1.9.0                 # via pytest
+py==1.10.0                 # via pytest
 pycodestyle==2.6.0        # via flake8
 pyflakes==2.2.0           # via flake8
 pyparsing==2.4.7          # via packaging
